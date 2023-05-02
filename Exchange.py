@@ -1,6 +1,6 @@
 import requests
 
-api_key = "d1d01af0db77065d19d8543a"
+api_key = "API KEY GOES HERE"
 url = f"https://v6.exchangerate-api.com/v6/{api_key}/latest/"
 
 
